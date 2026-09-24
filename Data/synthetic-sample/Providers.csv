@@ -1,0 +1,11 @@
+ProviderID,ProviderName,Specialty,Network,City
+P2001,Desert Family Care,Primary Care,In-Network,Phoenix
+P2002,Valley Emergency,Emergency,In-Network,Phoenix
+P2003,Arizona Medical Center,Hospital,In-Network,Mesa
+P2004,Southwest Labs,Laboratory,Out-of-Network,Tempe
+P2005,Sonoran Imaging Group,Radiology,In-Network,Scottsdale
+P2006,Copper State Surgery,Surgery,In-Network,Phoenix
+P2007,East Valley Specialists,Specialty Care,Out-of-Network,Chandler
+P2008,Desert Pharmacy Network,Pharmacy,In-Network,Gilbert
+P2009,Phoenix Outpatient Center,Outpatient,In-Network,Phoenix
+P2010,Valley Behavioral Health,Behavioral Health,In-Network,Mesa
